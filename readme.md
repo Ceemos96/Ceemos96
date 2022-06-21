@@ -5,7 +5,7 @@
 I'm a Front-end software developer who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a student at Microverse.
-- 📚 I’m currently learning  Javascript frameworks and Webpack.
+- 📚 I’m currently learning Front-end development adopting the TDD approach using Javascript frameworks, ES6 Syntax, gitflow, and webpack.
 - 👯 I’m looking for a software development position. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/suleiman-olaide-97689b154/), [Gmail](mailto:olaide.suleiman@gmail.com)
 
